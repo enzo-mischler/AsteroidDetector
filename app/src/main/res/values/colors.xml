@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gris_fond">#303030</color>
+    <color name="bandeau">#262626</color>
+    <color name="bleu_commencer">#325DA2</color>
+    <color name="couleur_texte">#E0E0E0</color>
+    <color name="soleil">#FFEB3B</color>
+    <color name="terre">#29B6F6</color>
+    <color name="asteroide">#F44336</color>
+    <color name="orbite">#BDBDBD</color>
+</resources>

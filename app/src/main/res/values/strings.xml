@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AsteroidDetector</string>
+    <string name="titre">Asteroid Detector</string>
+    <string name="accroche">Découvrez chaque jour les astéroïdes en approche de la Terre !</string>
+    <string name="bouton">Commencer</string>
+    <string name="recu">Données reçues</string>
+    <string name="erreur">Erreur</string>
+    <string name="magnitude">Magnitude : %1$s</string>
+    <string name="distance">Distance : %1$s km</string>
+    <string name="nombre">Nombre d\'astéroïdes : %1$d</string>
+    <string name="periode">Période orbitale : %1$s</string>
+    <string name="soleil">Soleil</string>
+    <string name="terre">Terre</string>
+    <string name="asteroide">Astéroïde</string>
+</resources>

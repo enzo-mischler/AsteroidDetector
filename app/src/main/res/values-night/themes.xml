@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AsteroidDetector" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorOnSurface">@color/couleur_texte</item>
+        <item name="colorOutline">@color/orbite</item>
+        <item name="colorSecondaryContainer">@color/bleu_commencer</item>
+        <item name="colorOnSecondaryContainer">@color/white</item>
+    </style>
+</resources>
